@@ -1,7 +1,10 @@
-# Spain Gambling Regulations
+# Spain Regulatory Documents
 
-Markdown versions of gambling regulations and regulatory guidelines for Spain, converted for easy reference and version tracking.
+Markdown versions of regulatory documents for Spain, extracted from the DBNSA Regulatory Repository.
 
-## Documents
+## Source
 
-*Document index will be updated once files are processed.*
+Documents sourced from the [DBNSA SharePoint Regulatory Repository](https://dbnsa.sharepoint.com/sites/ComplianceOfficers93/Regulatory%20Repository/Rest%20of%20World/Spain).
+
+---
+*Last updated: 2026-04-30 — maintained by the DBNSA Compliance team.*
